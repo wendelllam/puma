@@ -57,7 +57,7 @@ lib/puma/tcp_logger.rb
 lib/puma/thread_pool.rb
 lib/puma/util.rb
 lib/rack/handler/puma.rb
-puma.gemspec
+wendell-puma.gemspec
 tools/jungle/README.md
 tools/jungle/init.d/README.md
 tools/jungle/init.d/puma

@@ -7,7 +7,7 @@ IS_JRUBY = defined?(RUBY_ENGINE) ? RUBY_ENGINE == "jruby" : false
 Hoe.plugin :git
 Hoe.plugin :ignore
 
-HOE = Hoe.spec "puma" do
+HOE = Hoe.spec "wendell-puma" do
   self.readme_file    = "README.md"
   self.urls = %w!http://puma.io https://github.com/puma/puma!
 

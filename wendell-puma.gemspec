@@ -11,7 +11,7 @@ else
 end
 
 Gem::Specification.new do |s|
-  s.name = "puma"
+  s.name = "wendell-puma"
   s.version = version
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
